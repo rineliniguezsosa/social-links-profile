@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/my-social-link-profile-RxhLEnlcvu). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -36,8 +36,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/my-social-link-profile-RxhLEnlcvu)
+- Live Site URL: [Add live site URL here](https://rineliniguezsosa.github.io/social-links-profile/)
 
 ## My process
 
@@ -59,9 +59,7 @@ full stack technologies
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@rineliniguezsosa](https://www.frontendmentor.io/profile/rineliniguezsosa)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 ## Requirements 
 
@@ -77,13 +75,13 @@ Follow these steps to download and run the project locally
   Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/rineliniguezsosa/blog-preview-card.git
+   git clone https://github.com/rineliniguezsosa/social-links-profile.git
    ```
 
 2.- **Navigate to the project directory:**
 
 ```bash
-cd blog-preview-card
+cd social-links-profile
 ```
 
 3.-**Open the project in Visual Studio Code:**
